@@ -29,8 +29,19 @@ SQL/
   - Advanced features: Window functions (`RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`)
   - Logic & control: `CASE`, `IF`, Common Table Expressions (CTEs), Subqueries
 - 🗂️ **Clean Code**: Consistent naming and structured formatting
-- 🔄 **Automation**: Exported via `leetcode-export` using browser cookies
 
+---
+
+## 📥 How to Use This Repository
+
+### 🔄 Clone the Repository
+
+To get a local copy of this repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/manankumar7403/SQL.git
+cd SQL
+```
 ---
 
 ## 🛠 Tools & Technologies

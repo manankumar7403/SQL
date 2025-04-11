@@ -16,7 +16,7 @@ SQL/
 ...
 ```
 
-## What’s Inside?
+## Features
 
 - **Solutions** to a variety of LeetCode SQL problems
 - **Key SQL Techniques** demonstrated:

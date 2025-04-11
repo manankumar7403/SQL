@@ -1,10 +1,9 @@
-# 🧠 SQL LeetCode Solutions
+# SQL LeetCode Solutions
 
-Welcome to my curated collection of **SQL solutions** for [LeetCode](https://leetcode.com/) challenges! This repository showcases optimized SQL queries I’ve crafted to tackle problems ranging from simple data manipulations to intricate analytical queries using advanced SQL techniques.
+Welcome to my curated collection of **SQL solutions** for [LeetCode](https://leetcode.com/) challenges! This repository showcases optimized SQL queries for problems ranging from basic data manipulation to complex analytical tasks using advanced SQL techniques.
 
----
 
-## 📂 Repository Structure
+## Repository Structure
 
 All solutions are neatly organized in the [`SQL/`](./) directory. Each `.sql` file is named after its corresponding LeetCode problem and contains an accepted solution.
 
@@ -17,24 +16,20 @@ SQL/
 ...
 ```
 
+## What’s Inside?
 
----
-
-## 💡 What’s Inside?
-
-- 🧩 **Solutions** to a variety of LeetCode SQL problems
-- ⚙️ **Key SQL Techniques** demonstrated:
+- **Solutions** to a variety of LeetCode SQL problems
+- **Key SQL Techniques** demonstrated:
   - Core operations: `JOIN`, `UNION`, `EXISTS`, `IN`
   - Aggregation: `GROUP BY`, `HAVING`, `ORDER BY`
   - Advanced features: Window functions (`RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`)
   - Logic & control: `CASE`, `IF`, Common Table Expressions (CTEs), Subqueries
-- 🗂️ **Clean Code**: Consistent naming and structured formatting
+- **Clean Code**: well-commented code with consistent formatting, organized by problem number and title for easy navigation.
 
----
 
-## 📥 How to Use This Repository
+## How to Use
 
-### 🔄 Clone the Repository
+### Clone the Repository:
 
 To get a local copy of this repository, run the following command in your terminal:
 
@@ -42,29 +37,39 @@ To get a local copy of this repository, run the following command in your termin
 git clone https://github.com/manankumar7403/SQL.git
 cd SQL
 ```
----
 
-## 🛠 Tools & Technologies
 
-- **Platform**: [LeetCode](https://leetcode.com/)
-- **SQL Dialect**: `MySQL`
+## Requirements
 
----
+- **SQL Dialect**: MySQL (as used on LeetCode).
+- **Platform**: LeetCode online editor (no local setup required).
 
-## 🙋‍♂️ About Me
 
-👨‍💻 I’m **[Manan Kumar](https://github.com/manankumar7403)**, a passionate problem-solver with a love for writing efficient, elegant SQL. Explore more of my work on [GitHub](https://github.com/manankumar7403) and stay tuned for updates to this repo!
+## Contributing
 
----
+Contributions are welcome! Please:
+1. **Fork** the repository.
+2. Create a **feature branch**:  
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make changes and commit:
+   ```bash
+   git commit -m "Add solution for problem XYZ"
+   ```
+4. Push to the branch
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
 
-## ⭐️ Support the Project
+**Report issues via [GitHub Issues](https://github.com/manankumar7403/SQL/issues).**
 
-If this repository helps you, I’d love for you to:
-- ⭐️ **Star** the repo
-- 📤 **Share** it with friends  friends or colleagues
 
-Your support keeps me motivated to share more solutions!
+## Disclaimer
 
----
+This repository is for educational purposes only. Use these solutions to learn SQL concepts, not to bypass LeetCode’s learning process. Respect academic integrity and platform guidelines.
 
-Happy querying! 🚀
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt).

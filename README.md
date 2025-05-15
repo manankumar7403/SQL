@@ -72,4 +72,4 @@ This repository is for educational purposes only. Use these solutions to learn S
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
